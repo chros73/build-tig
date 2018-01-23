@@ -1,0 +1,7 @@
+source ~/.config/tig/desert.theme.tigrc
+#source ~/.config/tig/neonwolf.theme.tigrc
+#source ~/.config/tig/lightdark.theme.tigrc
+
+
+# example: https://github.com/jonas/tig/blob/master/tigrc
+set line-graphics = utf-8
